@@ -26,3 +26,12 @@ Then pass both the template and the variables to `jinja2`
 Each folder contains a CloudFormation stack template and its variables.
 They serve as examples of how to provision various AWS resources, and are not necessarily related to each other.
 Your usage and needs may vary, but we hope these can help you in provisioning your resources.
+
+### [Contact an Author]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
